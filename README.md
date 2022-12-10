@@ -1,4 +1,3 @@
-# project-consistency-backend-team2_moksh
 # Project Consistency 
 ![Project Consistency-logos_white 1](https://user-images.githubusercontent.com/25152105/206829845-1e83943c-f932-4559-a944-85524b2dac87.png)
 
